@@ -1,0 +1,7 @@
+Notes:
+Thesea are the articles that are followed to make critical design descisions:
+
+1. Selenium Documentation: http://docs.seleniumhq.org/docs/
+2. Manning's upcoming book : http://selenium-webdriver-in-practice.github.io/
+3. Blog - Page Object Pattern: https://peterkedemo.wordpress.com/2013/03/30/writing-good-selenium-tests-with-page-objects-and-spring/
+4. Blog - Author of manning book: http://www.alexecollins.com/tutorial-integration-testing-selenium-part-2/
