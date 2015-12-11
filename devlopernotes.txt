@@ -1,5 +1,5 @@
 Notes:
-Thesea are the articles that are followed to make critical design descisions:
+These are the articles that are followed to make critical design descisions:
 
 1. Selenium Documentation: http://docs.seleniumhq.org/docs/
 2. Manning's upcoming book : http://selenium-webdriver-in-practice.github.io/
